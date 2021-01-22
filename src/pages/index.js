@@ -19,7 +19,8 @@ const IndexPage = () => (
       <source src="https://d2h4ujdvdagbg2.cloudfront.net/da0eaa34-24b9-4a29-b1cb-e174d5b4d11a/DASHISO1/test.mpd" type="application/dash+xml"></source>
     </video-js> */}
     {/* <VideoPlayer src="https://d2h4ujdvdagbg2.cloudfront.net/da0eaa34-24b9-4a29-b1cb-e174d5b4d11a/DASHISO1/test.mpd"/> */}
-    <VideoPlayer src="https://d2h4ujdvdagbg2.cloudfront.net/da0eaa34-24b9-4a29-b1cb-e174d5b4d11a/AppleHLS1/test.m3u8"/>
+    {/* <VideoPlayer src="https://d2h4ujdvdagbg2.cloudfront.net/da0eaa34-24b9-4a29-b1cb-e174d5b4d11a/AppleHLS1/test.m3u8"/> */}
+    <VideoPlayer src="https://d2h4ujdvdagbg2.cloudfront.net/da0eaa34-24b9-4a29-b1cb-e174d5b4d11a/FileGroup1/test_Mp4_Avc_Aac_16x9_1920x1080p_24Hz_8.5Mbps_qvbr.mp4"/>
 
 
     <p>Welcome to your new Gatsby site.</p>

@@ -9,7 +9,7 @@ const usePlayer = ({ src, controls, autoplay }) => {
     fluid: true,
     preload: 'auto',
     html5: {
-      hls: {
+      vhs: {
         enableLowInitialPlaylist: true,
         smoothQualityChange: true,
         overrideNative: true,
